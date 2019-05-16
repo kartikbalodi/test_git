@@ -1,2 +1,6 @@
 Full name: Kartik Balodi
+<<<<<<< HEAD
 HOLAAAAAA
+=======
+Lol rofl lmao XD
+>>>>>>> 7319039cfad29ee87e56dde845572cb3ed6143da
